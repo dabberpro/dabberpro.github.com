@@ -1,3 +1,8 @@
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
 # The Dark Web
 The dark web is a loaded word. When one thinks of the dark web, they may think of illicit and illegal activities. However, it can be useful place to avoid censorship and have security as well. So, you may have a use for it. A quick search for Tor Browser allows you to access the dark web after installing it. However, once one loads up their Tor Browser, they often have the fundamental question: where to start?
 # The Hidden Wiki
